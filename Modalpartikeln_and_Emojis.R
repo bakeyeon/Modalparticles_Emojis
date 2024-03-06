@@ -7,6 +7,10 @@ library(visreg)
 library(lattice)
 
 
+# Writer: HYEYEON PARK
+# HHU MA Linguistik 2024. 03
+
+
 # working directory
 setwd("C:/Users/hyeye/Desktop/2023-24WS/Gesture")
 
