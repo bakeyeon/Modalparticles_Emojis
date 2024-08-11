@@ -5,8 +5,7 @@ This is a term paper for the MA program in WS-23/24, titled "The Meaning of Gest
 This study represents an initial exploration conducted in a short timeframe, and I appreciate your understanding regarding its preliminary nature. 
 I welcome any inquiries or discussions related to this research. 
 
-Author: Hye-Yeon Park
-
+Author: Hye-Yeon Park (Ms)
 Contact: hyeyeon.park@hhu.de
 
 Abstract:
