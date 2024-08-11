@@ -6,6 +6,7 @@ This study represents an initial exploration conducted in a short timeframe, and
 I welcome any inquiries or discussions related to this research. 
 
 Author: Hye-Yeon Park
+
 Contact: hyeyeon.park@hhu.de
 
 Abstract:
