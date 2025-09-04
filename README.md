@@ -1,5 +1,4 @@
-# Modalparticles_Emojis
-Modalpartikeln': Can Sentiments Survive Translation with Emojis? 
+# Modalpartikeln': Can Sentiments Survive Translation with Emojis? 
 
 This is a term paper for the MA program in WS-23/24, titled "The Meaning of Gestures" at Heinrich-Heine University. This study is based on a survey I personally conducted and analyzed using R. I appreciate your understanding regarding its preliminary nature. I welcome any inquiries or discussions related to this research.
 
