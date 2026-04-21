@@ -20,3 +20,8 @@ https://github.com/bakeyeon/modalparticles_sentiment_analysis
 
 Sentiment Translator
 https://github.com/bakeyeon/sentiment_translator
+
+
+## Acknowledgments
+I would like to express my sincere gratitude to Prof. Jacopo Romoli and Dr. Yulia Zinova for their invaluable guidance, insightful feedback, and academic supervision. Their expertise and encouragement were instrumental in the development of this research and in shaping its linguistic and technical depth.
+
