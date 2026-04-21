@@ -14,7 +14,7 @@ This study investigates the use of emoticons for translating the emotional conno
 - Contextual Ambiguity and Polysemy: Certain particles, such as ja or schon, can convey opposing sentiments (e.g., friendliness vs. annoyance) depending on the context. Assigning a fixed sentiment score to these particles involves a degree of arbitrary simplification of their pragmatic complexity.
 - While it is standard linguistic practice to account for subtle shifts in meaning based on the exact position of an element within a sentence, this study did not strictly control for syntactic variables. Consequently, the findings may have inherent limitations in capturing the full range of pragmatic nuances associated with word order variations.
 
-## Related Study
+## Related Study & Projects 
 How Much Sentiment Can Be Carried by Modal Particles?
 https://github.com/bakeyeon/modalparticles_sentiment_analysis
 
