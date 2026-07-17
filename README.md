@@ -15,11 +15,9 @@ This study investigates the use of emoticons for translating the emotional conno
 - Syntactic Position and Pragmatic Variance: While it is standard linguistic practice to account for subtle shifts in meaning based on the exact position of an element within a sentence, this study did not strictly control for syntactic variables. Consequently, the findings may have inherent limitations in capturing the full range of pragmatic nuances associated with word order variations.
 
 ## Related Study & Projects 
-How Much Sentiment Can Be Carried by Modal Particles?
-https://github.com/bakeyeon/modalparticles_sentiment_analysis
-
-Sentiment Translator
-https://github.com/bakeyeon/sentiment_translator
+- How Much Sentiment Can Be Carried by Modal Particles? (https://github.com/bakeyeon/modalparticles_sentiment_analysis)
+- Sentiment Translator (https://github.com/bakeyeon/sentiment_translator)
+- Medium Post - Can We Translate Our Sentiments? (https://medium.com/gopenai/can-we-translate-our-sentiments-140c55822ead?sharedUserId=kaiwritesornot)
 
 
 ## Acknowledgments
