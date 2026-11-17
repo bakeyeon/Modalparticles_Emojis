@@ -4,8 +4,8 @@ message: "If you use this term paper, dataset, or R script, please cite it as be
 type: dataset
 authors:
   - family-names: Park
-    given-names: Hyeyeon
-    alias: Kai Park
+    given-names: Kai
+    alias: Hyeyeon Park
     affiliation: Heinrich Heine University Düsseldorf
     orcid: "https://orcid.org/0000-0002-2854-0127"
 repository-code: "https://github.com/bakeyeon/Modalparticles_Emojis"
