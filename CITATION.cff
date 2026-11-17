@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Modalpartikeln': Can Sentiments Survive Translation with Emojis?"
+message: "If you use this term paper, dataset, or R script, please cite it as below."
+type: dataset
+authors:
+  - family-names: Park
+    given-names: Hyeyeon
+    alias: Kai Park
+    affiliation: Heinrich Heine University Düsseldorf
+    orcid: "https://orcid.org/0000-0002-2854-0127"
+repository-code: "https://github.com/bakeyeon/Modalparticles_Emojis"
+license: Apache-2.0
+keywords:
+  - modal particles
+  - German linguistics
+  - emojis
+  - sentiment analysis
+abstract: >-
+  This study investigates the use of emoticons for translating emotional
+  connotations of German modal particles.
