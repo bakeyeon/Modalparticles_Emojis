@@ -24,6 +24,7 @@ This study investigates the use of emoticons for translating the emotional conno
 I would like to thank Prof. Jacopo Romoli and Dr. Yulia Zinova for providing the insightful lectures and the academic environment that inspired this research. Their courses were instrumental in shaping the foundational ideas. 
 
 ## Cite 
+```
 @misc{park_2024_modalpartikeln,
   author       = {Park, Kai},
   title        = {{Modalpartikeln': Can Sentiments Survive Translation with Emojis?}},
@@ -34,3 +35,4 @@ I would like to thank Prof. Jacopo Romoli and Dr. Yulia Zinova for providing the
   doi          = {10.5281/zenodo.24326143},
   url          = {https://doi.org/10.5281/zenodo.24326143}
 }
+```
