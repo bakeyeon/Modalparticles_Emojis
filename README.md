@@ -14,6 +14,24 @@ This study investigates the use of emoticons for translating the emotional conno
 - Contextual Ambiguity and Polysemy: Certain particles, such as ja or schon, can convey opposing sentiments (e.g., friendliness vs. annoyance) depending on the context. Assigning a fixed sentiment score to these particles involves a degree of arbitrary simplification of their pragmatic complexity.
 - Syntactic Position and Pragmatic Variance: While it is standard linguistic practice to account for subtle shifts in meaning based on the exact position of an element within a sentence, this study did not strictly control for syntactic variables. Consequently, the findings may have inherent limitations in capturing the full range of pragmatic nuances associated with word order variations.
 
+## Re-analysis Note (2026)
+I later revisited the analysis of this term paper. The PDF and the original script are left as submitted; please read them together with these notes. All numbers below come from [`reanalysis.R`](reanalysis.R).
+
+**What holds**
+- Sentiment ratings differ clearly across the ten particles (cumulative link mixed model, LR = 218.3, df = 9, p < .001).
+- For the six one-to-one particle/emoji pairs, *halt* and *eigentlich* show no clear difference from their emojis, while *eben*, *wirklich*, *ruhig* and *nun einmal* do (Holm-adjusted). No clear difference is not evidence of equivalence.
+
+**Corrections**
+- The adjustment for `imp` used the *ja* score instead of the *mal* score. Corrected, `imp` is 0.412 (reported: 0.787), the cosine similarity 0.743 (reported: 0.659) and the t-test p = .025 (reported: .017).
+- Cosine similarity describes how similar two score profiles are and should not be read as a success rate.
+
+**To be read as exploratory**
+- The shifts of 0.9, 0.03 and 0.1 were chosen after seeing the results, and the score adjustment combines two different scales (sentiment and strength).
+- Cultural background was coded as a number, and many tests were run without correction. For particles, the results depend on how groups are formed (*doch*: adjusted p = .024 with two groups, .13 with three). For emojis, only `kisscl` and `disa` remain, with 11 participants outside the Korean group.
+- The fluency result for *ruhig* depends on two participants (r = .60 with them, .09 without).
+- Each particle appears in only one sentence, so particle and sentence effects cannot be separated.
+- The original script also contains a t-test on resampled German data. It is not reported in the paper and should be disregarded.
+
 ## Related Study & Projects 
 - How Much Sentiment Can Be Carried by Modal Particles? (https://github.com/bakeyeon/modalparticles_sentiment_analysis)
 - Sentiment Translator (https://github.com/bakeyeon/sentiment_translator)
